@@ -170,7 +170,7 @@ const Navbar = () => {
         </div>
         <div className={stylesCss.openingHours}>
           Godziny Otwarcia <br />
-          Poniedziałek-Piątek: 8:00 - 16:20
+          Poniedziałek-Piątek: 8:00 - 16:20 lol
         </div>
         {burger ? (
           <TestNav>
