@@ -169,7 +169,7 @@ const Navbar = () => {
          
         </div>
         <div className={stylesCss.openingHours}>
-          Godziny Otwarcia <br />
+          Godziny Otwarcia LOLACZ<br />
           Poniedziałek-Piątek: 8:00 - 16:00
         </div>
         {burger ? (
