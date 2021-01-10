@@ -82,7 +82,7 @@ const rodo = () => {
           <br />
           <br />
           Ponadto macie Państwo prawo dowiedzieć się, jakim odbiorcom wzgl.
-          kategoriom odbiorców dane zostały ujawnione lub są jeszcze ujawniane;
+          kategoriom odbiorców dane zostały ujawnione lub są jeszcze ujawniane,
           w szczególności w przypadku odbiorców w krajach trzecich lub
           organizacji międzynarodowych. W tym przypadku macie Państwo również
           prawo do uzyskania pouczenia w kwestii stosownych gwarancji w związku
