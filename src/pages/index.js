@@ -301,7 +301,7 @@ export default function Home() {
       <StyledSection>
         <div className="C2A">
           <p>
-            Technologie które sprostają <br /> największym wyzwaniom
+            Technologie ogóre sprostają <br /> największym wyzwaniom
           </p>
           <button onClick={() => scrollTo('#HomePageArticle')}>Zobacz Więcej</button>
         </div>
