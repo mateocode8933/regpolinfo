@@ -87,6 +87,7 @@ const rodo = () => {
           organizacji międzynarodowych. W tym przypadku macie Państwo również
           prawo do uzyskania pouczenia w kwestii stosownych gwarancji w związku
           z przekazywaniem Państwa danych osobowych.
+          <br/>
           <br />
           <br />
           Oprócz prawa do złożenia skargi w organie nadzorczym oraz prawa do
