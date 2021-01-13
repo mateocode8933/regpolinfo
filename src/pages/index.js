@@ -6,8 +6,8 @@ import scrollTo from 'gatsby-plugin-smoothscroll';
 import styles from "styled-components"
 import { graphql, useStaticQuery } from "gatsby"
 import Image from "gatsby-image"
-import BottomLogo from "../images/regpolLogo/BottomLogo.png";
 
+import BottomLogo from "../images/regpolLogo/TopLogo.png"
 
 const StyledSection = styles.section`
 height: 92vh;
