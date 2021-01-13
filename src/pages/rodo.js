@@ -121,7 +121,7 @@ const rodo = () => {
           <br />
           <br />
           <br />
-          <br />
+          
           <strong>Prawo do usunięcia danych (art. 17 RODO).</strong>
           <br />
           <br />
