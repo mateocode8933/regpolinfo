@@ -261,6 +261,8 @@ const rodo = () => {
           <br />
           Państwa dane osobowe nie są przekazywane tzw. państwom trzecim spoza
           Unii Europejskiej/ Europejskiego Obszaru Gospodarczego.
+          <br />
+          <br />
           <strong>
             5.Zautomatyzowane podejmowanie decyzji – profilowanie.
           </strong>
