@@ -188,6 +188,7 @@ const About = () => {
           content="Regpol Henkel Loctite Teroson Bonderite"
         />
         <link rel="canonical" href="https://www.regpol.info/"></link>
+        
       </Helmet>
       <StyledAside>
         <div className="topDesc">

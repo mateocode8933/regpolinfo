@@ -65,6 +65,7 @@ const Contact = props => {
           content="Regpol Henkel Loctite Teroson Bonderite"
         />
         <link rel="canonical" href="https://www.regpol.info/"></link>
+        
       </Helmet>
       <BackgroundImage
         style={{ height: "100%" }}

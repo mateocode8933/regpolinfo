@@ -8,7 +8,6 @@ import { graphql, useStaticQuery } from "gatsby"
 import Image from "gatsby-image"
 import BottomLogo from "../images/regpolLogo/BottomLogo.png";
 
-
 const StyledSection = styles.section`
 height: 92vh;
 max-width: inherit;
@@ -276,11 +275,13 @@ const getImages = graphql`
 export default function Home() {
   const data = useStaticQuery(getImages)
 
+  
 
 
   return (
     <Layout>
       <Helmet>
+      
         <title>
           Regpol - Kleje przemysłowe, uszczelniacze, silikony | Biuro Handlowe
           Regpol | Bydgoszcz – Jesteśmy autoryzowanym przedstawicielem firm
@@ -296,6 +297,10 @@ export default function Home() {
           content="Regpol Henkel Loctite Teroson Bonderite"
         />
         <link rel="canonical" href="https://www.regpol.info/"></link>
+        <script
+    src="https://skrypt-cookies.pl/id/03d8c327a5ea838f.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+    crossorigin="anonymous"></script>
       </Helmet>
 
       <StyledSection>
